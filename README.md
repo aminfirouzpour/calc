@@ -1,2 +1,2 @@
 # calc
-dynamic css fraamework
+dynamic css framework
